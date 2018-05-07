@@ -1,10 +1,10 @@
 # README #
-University: Chiang Mai University 
-Department: Computer science
-Subject: [204101] Introduction to Computer 
-Description Subject: Learn about Fundamental of Programming using python
-My name: Anurak Boonyaritpanit (Bon)
-Student ID: 560510680
+* University: Chiang Mai University 
+* Department: Computer science
+* Subject: [204101] Introduction to Computer (2/2560)
+* Description Subject: Learn about Fundamental of Programming using python
+* My name: Anurak Boonyaritpanit (Bon)
+* Student ID: 560510680
 
 ### What is this repository for? ###
 
